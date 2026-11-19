@@ -1,0 +1,9 @@
+obj/
+*.o
+*.a
+push_swap
+checker_linux
+checker_Mac
+fedora_checker
+ops.txt
+bench.txt
